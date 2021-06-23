@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é Leandro!
-
-<code><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' href='https://www.linkedin.com/in/leandro-dias-2a2985106/'> <img src='https://www.codewars.com/users/CodenameFox/badges/small'><br></code>
+## 🦊 Olá, meu nome é Leandro!
+<br>
+<code><a  href='https://www.linkedin.com/in/leandro-dias-2a2985106/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a> <img src='https://www.codewars.com/users/CodenameFox/badges/small'><br></code><br>
 
 
 
