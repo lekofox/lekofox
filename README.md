@@ -1,9 +1,9 @@
 ## 💜 Olá, meu nome é Leandro!
 
-> Sou formado em análise e desenvolvimento de sistemas.
-> Entusiasta de tecnologia desde criança
-> 6 anos com experiência em vendas B2B, maior parte dessa experiência em startups.
-> Gama Alumni 💚 XP - 37
+* Sou formado em análise e desenvolvimento de sistemas.
+* Entusiasta de tecnologia desde criança
+* 6 anos com experiência em vendas B2B, maior parte dessa experiência em startups.
+* Gama Alumni 💚 XP - 37
 
 🔭 Atualmente desenvolvendo projetos com foco em backend (NodeJs) e seguindo cronograma do Gama XP.
 
