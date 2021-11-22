@@ -13,7 +13,7 @@
 * Gama Alumni 💚 XP - 37
 
 \
-🔭 Atualmente desenvolvendo projetos com foco em backend (NodeJs) e seguindo cronograma do Gama XP.
+🔭 Atualmente desenvolvendo projetos com foco em backend (NodeJs), C# e atuando com programação back-end e migração de dados com a Ingaia.
 
 \
 💬 Em busca do novo e refatorando o agora.
