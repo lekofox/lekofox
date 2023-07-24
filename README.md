@@ -13,7 +13,7 @@
 * Gama Alumni 💚 XP - 37
 
 \
-🔭 Atualmente desenvolvendo projetos em C# com a Capgemini.
+🔭 Atualmente desenvolvendo projetos em C# com a GrooveTech.
 
 \
 💬 Em busca do novo e refatorando o agora.
